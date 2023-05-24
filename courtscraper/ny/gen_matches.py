@@ -86,6 +86,7 @@ def gen_matches():
                 file.write(f"Original Number: {row['Original Number']} \n")
                 file.write(f"Crime Year: {row['Crime Year']} Age at Arrest: {row['Age at Crime']}")
                 file.write(f" Arrest Year: {row['Arrest Year']} ")
-                file.write(f" Race: {row['Race/Ethnicity of Arrestee']} Disposition County: {row['Disposition County']} \n")
+                file.write(f"Race: {row['Race/Ethnicity of Arrestee']} ")
+                file.write(f"Disposition County: {row['Disposition County']} \n")
                 file.write(str(match_convs[['Name', 'DOB', 'Race', 'County', 'Min Term (Months)']]))
                 file.write('\n\n----------------------\n')
