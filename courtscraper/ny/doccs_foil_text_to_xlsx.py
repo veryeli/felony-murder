@@ -5,8 +5,7 @@ import re
 import pandas as pd
 
 from courtscraper.data_utils.consts import DOCCS_FOIL_TXT_PATH, DOCCS_FOIL_XLSX, \
-    IGNORE, ETHNICITIES, CRIMES, COUNTIES
-
+    ETHNICITIES, CRIMES, COUNTIES
 
 DOB_RE = r"\d{8}"
 DIN_RE = r"\d{2}[A-Za-z]\d{4}"
@@ -31,50 +30,19 @@ def dob_in_line(text):
     if dob_match:
         return dob_match.group()
 
-def extract_fields(text, fields):
+def extract_fields(text, fields, length=3):
     """Extracts the fields from the text"""
     original = text
     tokens = []
-    for field in fields:
-        if field in text:
-            tokens.append(field)
-            text = text.replace(field, '', 1)
-    return order_by_string_order(original, tokens, length=3)
-
-def get_agg_lines(fname):
-    """Get aggregated lines from file
-    
-    The file has lots of broken up lines, so
-    this function groups them together when they
-    are part of the same record, breaking into new 
-    lines on the DIN"""
-    with open(fname, 'r', encoding="utf-8") as file:
-        lines = [line for line in file]
-
-    # Extract data using regular expressions
-    agg_lines = []
-    current_line = ""
-    for line in lines:
-        line = line.strip()
-        if not line:
-            continue
-        if any(_ in line for _ in IGNORE):
-            continue
-        if din_in_line(line):
-            if current_line:
-                agg_lines.append(current_line)
-            current_line = line
-        else:
-            current_line += ' '
-            current_line += line
-    agg_lines.append(current_line)
-    return agg_lines
-
+    for _ in range(length):
+        for field in fields:
+            if field in text:
+                tokens.append(field)
+                text = text.replace(field, '', 1)
+    return order_by_string_order(original, tokens, length)
 
 def get_min_sentence(line):
-    """Get minimum sentence in months
-    
-    It's formatted YYYMM, so we need to convert to months"""
+    """Returns the minimum sentence in months"""
     line = line.replace('LIFE', '')
     last_token = line.split()[-1]
     if last_token.isnumeric():
@@ -82,22 +50,28 @@ def get_min_sentence(line):
         min_sentence_years = int(last_token[:-2])
         return 12 * min_sentence_years + min_sentence_months
 
-def txt_to_xlsx():
-    """Main function"""
-    agg_lines = get_agg_lines(DOCCS_FOIL_TXT_PATH)
-
+def gen_xlsx(line_to_examine=None):
+    """Generates the xlsx file from the text file"""
+    lines = [_.strip() for _ in open(DOCCS_FOIL_TXT_PATH, 'r', encoding='utf-8')]
     data = []
 
-    for line in agg_lines:
+    for line in lines:
         din = din_in_line(line)
+        if din == line_to_examine:
+            print(line)
         dob = dob_in_line(line)
         name = line.split(din)[-1].split(dob)[0].strip()
         crimes = extract_fields(line, CRIMES)
+        if din == line_to_examine:
+            print(crimes)
         counties = extract_fields(line, COUNTIES)
+        if din == line_to_examine:
+            print(counties)
         ethnicity = extract_fields(line, ETHNICITIES)[0]
         min_sentence = get_min_sentence(line)
 
-        data_line = [din, name, dob, ethnicity,
+        data_line = [
+            din, name, dob, ethnicity,
             crimes[0], crimes[1], crimes[2],
             counties[0], counties[1], counties[2],
             min_sentence,
@@ -113,20 +87,4 @@ def txt_to_xlsx():
         'Min Prison Term in Months',
         'Aggregate Max Sentence'
     ])
-
     out_df.to_excel(DOCCS_FOIL_XLSX, index=False)
-
-    convictions = []
-    crimes = ['Most Serious Crime', 'Second Crime', 'Third Crime']
-    counties = ['County of Indictment 1', 'County of Indictment 2', 'County of Indictment 3']
-    for idx, fieldname in crimes:
-        for _, line in out_df.iterrows():
-            if line[fieldname] == 'MURDER 2ND':
-                convictions.append([
-                    line['DIN'],
-                    line['Name'],
-                    line['Date of Birth'],
-                    line['Ethnicity'],
-                    line[fieldname],
-                    line[counties[idx]]
-                ])
