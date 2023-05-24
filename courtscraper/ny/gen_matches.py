@@ -1,7 +1,8 @@
 """Utilities to generate potential matches"""
 import pandas as pd
 
-from courtscraper.data_utils.consts import DOCCS_FOIL_XLSX, TRACKER_PATH
+from courtscraper.data_utils.consts import DOCCS_FOIL_XLSX, TRACKER_PATH, \
+    GENERATED_MATCHES
 
 def gen_convictions_df():
     """Generates a dataframe of convictions from the DOCCS list"""
@@ -44,45 +45,47 @@ def gen_matches():
     tracker = pd.read_excel(TRACKER_PATH, sheet_name=1)
     tracker['AutoName'] = tracker['Name']
 
+    with open(GENERATED_MATCHES, 'w', encoding='utf-8') as file:
+        for _, row in tracker.iterrows():
+            if row['AutoName'] and str(row['AutoName']) != 'nan':
+                continue
+            if row['Crime Year'] != 'Unknown' and row['Crime Year'] >= 2020:
+                continue
+            match_convs = convs[convs['County'].apply(lambda x: x == row['Disposition County'])]
+            if str(row['Min Prison Term in Months']) in ['nan', 'Unknown']:
+                match_convs = match_convs[
+                    match_convs['Min Term (Months)'].apply(
+                        lambda x: str(x) == 'nan')]
+            else:
+                match_convs = match_convs[
+                    match_convs['Min Term (Months)'].apply(
+                        lambda x: str(x) != 'nan' and int(x) ==
+                            int(row['Min Prison Term in Months']))]
 
-    for _, row in tracker.iterrows():
-        if row['AutoName'] and str(row['AutoName']) != 'nan':
-            continue
-        if row['Crime Year'] != 'Unknown' and row['Crime Year'] >= 2020:
-            continue
-        match_convs = convs[convs['County'].apply(lambda x: x == row['Disposition County'])]
-        if str(row['Min Prison Term in Months']) in ['nan', 'Unknown']:
+            if match_convs.empty:
+                continue
             match_convs = match_convs[
-                match_convs['Min Term (Months)'].apply(
-                    lambda x: str(x) == 'nan')]
-        else:
-            match_convs = match_convs[
-                match_convs['Min Term (Months)'].apply(
-                    lambda x: str(x) != 'nan' and int(x) ==
-                        int(row['Min Prison Term in Months']))]
+                match_convs['Race'].apply(
+                    lambda x: x == row['Race/Ethnicity of Arrestee'])]
+            if match_convs.empty:
+                continue
+            if row['Crime Year'] != 'Unknown':
+                potential_yobs = [(row['Crime Year'] - row['Age at Crime']),
+                                (row['Crime Year'] - row['Age at Crime']) - 1]
+                match_convs = match_convs[
+                    match_convs['YOB'].apply(
+                        lambda x: x in potential_yobs)]
+            if match_convs.empty:
+                continue
+            match_convs = match_convs[match_convs['DIN'].apply(
+                    lambda x: int(x[:2]) >= int(str(row['Arrest Year'])[2:])
+                )]
 
-        if match_convs.empty:
-            continue
-        match_convs = match_convs[
-            match_convs['Race'].apply(
-                lambda x: x == row['Race/Ethnicity of Arrestee'])]
-        if match_convs.empty:
-            continue
-        if row['Crime Year'] != 'Unknown':
-            potential_yobs = [(row['Crime Year'] - row['Age at Crime']),
-                            (row['Crime Year'] - row['Age at Crime']) - 1]
-            match_convs = match_convs[
-                match_convs['YOB'].apply(
-                    lambda x: x in potential_yobs)]
-        if match_convs.empty:
-            continue
-        match_convs = match_convs[match_convs['DIN'].apply(
-                lambda x: int(x[:2]) >= int(str(row['Arrest Year'])[2:])
-            )]
-
-        if not match_convs.empty:
-            print('\n\n----------------------')
-            print(f"Original Number: {row['Original Number']} Crime Year: {row['Crime Year']}")
-            print(f"\tAge at Arrest: {row['Age at Crime']}")
-            print(f"\t Arrest Year: {row['Arrest Year']}")
-            print(match_convs[['DIN', 'Name', 'DOB', 'Race', 'County', 'Min Term (Months)']])
+            if not match_convs.empty:
+                match_convs = match_convs.set_index('DIN')
+                file.write(f"Original Number: {row['Original Number']} \n")
+                file.write(f"Crime Year: {row['Crime Year']} Age at Arrest: {row['Age at Crime']}")
+                file.write(f" Arrest Year: {row['Arrest Year']} ")
+                file.write(f" Race: {row['Race/Ethnicity of Arrestee']} Disposition County: {row['Disposition County']} \n")
+                file.write(str(match_convs[['Name', 'DOB', 'Race', 'County', 'Min Term (Months)']]))
+                file.write('\n\n----------------------\n')

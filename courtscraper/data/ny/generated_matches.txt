@@ -1,747 +1,817 @@
 Original Number: 28 
 Crime Year: 2005 Age at Arrest: 19 Arrest Year: 2005  Race: Hispanic Disposition County: Bronx 
-          DIN           Name       DOB      Race County  Min Term (Months)
-200   09A1668  Carrasco Jose  19850312  Hispanic  Bronx              300.0
-904   14A1473   Garcia Pablo  19861203  Hispanic  Bronx              300.0
-1488  18A0295  Dejesus Jason  19860919  Hispanic  Bronx              300.0
-1812  12A2099   Colon Paul J  19850813  Hispanic  Bronx              300.0
+                  Name       DOB      Race County  Min Term (Months)
+DIN                                                                 
+09A1668  Carrasco Jose  19850312  Hispanic  Bronx              300.0
+14A1473   Garcia Pablo  19861203  Hispanic  Bronx              300.0
+18A0295  Dejesus Jason  19860919  Hispanic  Bronx              300.0
+12A2099   Colon Paul J  19850813  Hispanic  Bronx              300.0
 
 ----------------------
 Original Number: 202 
 Crime Year: 2005 Age at Arrest: 32 Arrest Year: 2005  Race: Hispanic Disposition County: Bronx 
-         DIN           Name       DOB      Race County  Min Term (Months)
-254  09A5681  Matias Miguel  19730626  Hispanic  Bronx              300.0
-699  12A5300    Coello Eddy  19720914  Hispanic  Bronx              300.0
+                  Name       DOB      Race County  Min Term (Months)
+DIN                                                                 
+09A5681  Matias Miguel  19730626  Hispanic  Bronx              300.0
+12A5300    Coello Eddy  19720914  Hispanic  Bronx              300.0
 
 ----------------------
 Original Number: 400 
 Crime Year: 2006 Age at Arrest: 19 Arrest Year: 2006  Race: Black Disposition County: Erie 
-         DIN             Name       DOB   Race County  Min Term (Months)
-124  08B0274    Miller Jeremy  19860328  Black   Erie              300.0
-464  10B3798    Proctor Ricky  19870106  Black   Erie              300.0
-720  12B1931  Davis Kevin Jii  19860405  Black   Erie              300.0
-854  13B1944  Mitchell Joshua  19870328  Black   Erie              300.0
-866  13B3525    Smith Demario  19870416  Black   Erie              300.0
+                    Name       DOB   Race County  Min Term (Months)
+DIN                                                                
+08B0274    Miller Jeremy  19860328  Black   Erie              300.0
+10B3798    Proctor Ricky  19870106  Black   Erie              300.0
+12B1931  Davis Kevin Jii  19860405  Black   Erie              300.0
+13B1944  Mitchell Joshua  19870328  Black   Erie              300.0
+13B3525    Smith Demario  19870416  Black   Erie              300.0
 
 ----------------------
 Original Number: 264 
 Crime Year: 2009 Age at Arrest: 21 Arrest Year: 2009  Race: Black Disposition County: Monroe 
-         DIN                Name       DOB   Race  County  Min Term (Months)
-274  09B0179     Brewer Robert D  19880406  Black  Monroe              300.0
-276  09B0285      Dasher Bernard  19871109  Black  Monroe              300.0
-281  09B0705  Mcmillon Andre Mjr  19881120  Black  Monroe              300.0
-595  11B3865    Moore Artamion J  19881106  Black  Monroe              300.0
+                       Name       DOB   Race  County  Min Term (Months)
+DIN                                                                    
+09B0179     Brewer Robert D  19880406  Black  Monroe              300.0
+09B0285      Dasher Bernard  19871109  Black  Monroe              300.0
+09B0705  Mcmillon Andre Mjr  19881120  Black  Monroe              300.0
+11B3865    Moore Artamion J  19881106  Black  Monroe              300.0
 
 ----------------------
 Original Number: 190 
 Crime Year: 2009 Age at Arrest: 43 Arrest Year: 2009  Race: Black Disposition County: Monroe 
-          DIN               Name       DOB   Race  County  Min Term (Months)
-714   12B1118   Townsend Matthew  19660201  Black  Monroe              300.0
-852   13B1692  Farrare Timothy O  19650225  Black  Monroe              300.0
-1001  14B1645       Boyd Darrell  19650220  Black  Monroe              300.0
+                      Name       DOB   Race  County  Min Term (Months)
+DIN                                                                   
+12B1118   Townsend Matthew  19660201  Black  Monroe              300.0
+13B1692  Farrare Timothy O  19650225  Black  Monroe              300.0
+14B1645       Boyd Darrell  19650220  Black  Monroe              300.0
 
 ----------------------
 Original Number: 598 
 Crime Year: 2008 Age at Arrest: 22 Arrest Year: 2013  Race: Hispanic Disposition County: New York 
-          DIN            Name       DOB      Race    County  Min Term (Months)
-1430  17A4883  Galeano Jayson  19860206  Hispanic  New York              180.0
+                   Name       DOB      Race    County  Min Term (Months)
+DIN                                                                     
+17A4883  Galeano Jayson  19860206  Hispanic  New York              180.0
 
 ----------------------
 Original Number: 306 
 Crime Year: 2004 Age at Arrest: 25 Arrest Year: 2004  Race: Hispanic Disposition County: Queens 
-         DIN             Name       DOB      Race  County  Min Term (Months)
-538  11A3351  Marshall Robert  19790601  Hispanic  Queens              180.0
+                    Name       DOB      Race  County  Min Term (Months)
+DIN                                                                    
+11A3351  Marshall Robert  19790601  Hispanic  Queens              180.0
 
 ----------------------
 Original Number: 367 
 Crime Year: 2010 Age at Arrest: 23 Arrest Year: 2010  Race: Black Disposition County: Nassau 
-         DIN             Name       DOB   Race  County  Min Term (Months)
-359  10A2596    Hampton Grady  19860126  Black  Nassau              240.0
-569  11A5620  Jackson Anthony  19861224  Black  Nassau              240.0
+                    Name       DOB   Race  County  Min Term (Months)
+DIN                                                                 
+10A2596    Hampton Grady  19860126  Black  Nassau              240.0
+11A5620  Jackson Anthony  19861224  Black  Nassau              240.0
 
 ----------------------
 Original Number: 30 
 Crime Year: 2005 Age at Arrest: 31 Arrest Year: 2005  Race: Hispanic Disposition County: Bronx 
-         DIN           Name       DOB      Race County  Min Term (Months)
-81   08A4770  Samo Virgilio  19740321  Hispanic  Bronx              300.0
-254  09A5681  Matias Miguel  19730626  Hispanic  Bronx              300.0
+                  Name       DOB      Race County  Min Term (Months)
+DIN                                                                 
+08A4770  Samo Virgilio  19740321  Hispanic  Bronx              300.0
+09A5681  Matias Miguel  19730626  Hispanic  Bronx              300.0
 
 ----------------------
 Original Number: 185 
 Crime Year: 2009 Age at Arrest: 30 Arrest Year: 2009  Race: Hispanic Disposition County: Bronx 
-          DIN           Name       DOB      Race County  Min Term (Months)
-1790  10A0144  Bruno Noel Jr  19780924  Hispanic  Bronx                NaN
+                  Name       DOB      Race County  Min Term (Months)
+DIN                                                                 
+10A0144  Bruno Noel Jr  19780924  Hispanic  Bronx                NaN
 
 ----------------------
 Original Number: 493 
 Crime Year: 2006 Age at Arrest: 23 Arrest Year: 2010  Race: Black Disposition County: Bronx 
-          DIN            Name       DOB   Race County  Min Term (Months)
-697   12A4881     Gay William  19831016  Black  Bronx              300.0
-793   13A3359  Thompson David  19830624  Black  Bronx              300.0
-1111  15A3139    Hunter Jamel  19820406  Black  Bronx              300.0
+                   Name       DOB   Race County  Min Term (Months)
+DIN                                                               
+12A4881     Gay William  19831016  Black  Bronx              300.0
+13A3359  Thompson David  19830624  Black  Bronx              300.0
+15A3139    Hunter Jamel  19820406  Black  Bronx              300.0
 
 ----------------------
 Original Number: 497 
 Crime Year: 2008 Age at Arrest: 21 Arrest Year: 2008  Race: Black Disposition County: Bronx 
-         DIN           Name       DOB   Race County  Min Term (Months)
-982  14A5144  Watson Shalik  19870911  Black  Bronx              300.0
+                  Name       DOB   Race County  Min Term (Months)
+DIN                                                              
+14A5144  Watson Shalik  19870911  Black  Bronx              300.0
 
 ----------------------
 Original Number: 650 
 Crime Year: 2013 Age at Arrest: 18 Arrest Year: 2013  Race: Hispanic Disposition County: Bronx 
-          DIN                      Name       DOB      Race County   
-1867  19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx  \
-
-      Min Term (Months)  
-1867                NaN  
+                             Name       DOB      Race County  Min Term (Months)
+DIN                                                                            
+19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx                NaN
 
 ----------------------
 Original Number: 670 
 Crime Year: 2014 Age at Arrest: 19 Arrest Year: 2014  Race: Hispanic Disposition County: Bronx 
-          DIN                      Name       DOB      Race County   
-1867  19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx  \
-
-      Min Term (Months)  
-1867                NaN  
+                             Name       DOB      Race County  Min Term (Months)
+DIN                                                                            
+19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx                NaN
 
 ----------------------
 Original Number: 684 
 Crime Year: 2000 Age at Arrest: 23 Arrest Year: 2000  Race: Black Disposition County: Bronx 
-          DIN          Name       DOB   Race County  Min Term (Months)
-1721  19A4468  Jordan Junal  19760723  Black  Bronx              216.0
+                 Name       DOB   Race County  Min Term (Months)
+DIN                                                             
+19A4468  Jordan Junal  19760723  Black  Bronx              216.0
 
 ----------------------
 Original Number: 695 
 Crime Year: 2009 Age at Arrest: 37 Arrest Year: 2009  Race: Black Disposition County: Bronx 
-          DIN         Name       DOB   Race County  Min Term (Months)
-1063  15A0222  Hall Chevar  19710926  Black  Bronx              180.0
+                Name       DOB   Race County  Min Term (Months)
+DIN                                                            
+15A0222  Hall Chevar  19710926  Black  Bronx              180.0
 
 ----------------------
 Original Number: 712 
 Crime Year: 2011 Age at Arrest: 27 Arrest Year: 2012  Race: Hispanic Disposition County: Bronx 
-          DIN            Name       DOB      Race County  Min Term (Months)
-1080  15A1343  Sanchez Alexis  19840116  Hispanic  Bronx              216.0
+                   Name       DOB      Race County  Min Term (Months)
+DIN                                                                  
+15A1343  Sanchez Alexis  19840116  Hispanic  Bronx              216.0
 
 ----------------------
 Original Number: 797 
 Crime Year: 2012 Age at Arrest: 20 Arrest Year: 2012  Race: Black Disposition County: Bronx 
-          DIN           Name       DOB   Race County  Min Term (Months)
-674   12A3540   Carr Phillip  19920208  Black  Bronx              300.0
-809   13A4433  Giles Daikwan  19920211  Black  Bronx              300.0
-1415  17A3798    Coke Fabian  19911217  Black  Bronx              300.0
+                  Name       DOB   Race County  Min Term (Months)
+DIN                                                              
+12A3540   Carr Phillip  19920208  Black  Bronx              300.0
+13A4433  Giles Daikwan  19920211  Black  Bronx              300.0
+17A3798    Coke Fabian  19911217  Black  Bronx              300.0
 
 ----------------------
 Original Number: 917 
 Crime Year: 2014 Age at Arrest: 19 Arrest Year: 2014  Race: Hispanic Disposition County: Bronx 
-          DIN                      Name       DOB      Race County   
-1867  19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx  \
-
-      Min Term (Months)  
-1867                NaN  
+                             Name       DOB      Race County  Min Term (Months)
+DIN                                                                            
+19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx                NaN
 
 ----------------------
 Original Number: 918 
 Crime Year: 2014 Age at Arrest: 20 Arrest Year: 2014  Race: Hispanic Disposition County: Bronx 
-          DIN                      Name       DOB      Race County   
-1867  19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx  \
-
-      Min Term (Months)  
-1867                NaN  
+                             Name       DOB      Race County  Min Term (Months)
+DIN                                                                            
+19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx                NaN
 
 ----------------------
 Original Number: 959 
 Crime Year: 2016 Age at Arrest: 21 Arrest Year: 2016  Race: Hispanic Disposition County: Bronx 
-          DIN                      Name       DOB      Race County   
-1867  19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx  \
-
-      Min Term (Months)  
-1867                NaN  
+                             Name       DOB      Race County  Min Term (Months)
+DIN                                                                            
+19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx                NaN
 
 ----------------------
 Original Number: 1102 
 Crime Year: 2016 Age at Arrest: 22 Arrest Year: 2017  Race: Hispanic Disposition County: Bronx 
-          DIN                      Name       DOB      Race County   
-1867  19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx  \
-
-      Min Term (Months)  
-1867                NaN  
+                             Name       DOB      Race County  Min Term (Months)
+DIN                                                                            
+19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx                NaN
 
 ----------------------
 Original Number: 1123 
 Crime Year: 2018 Age at Arrest: 24 Arrest Year: 2018  Race: Hispanic Disposition County: Bronx 
-          DIN                      Name       DOB      Race County   
-1867  19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx  \
-
-      Min Term (Months)  
-1867                NaN  
+                             Name       DOB      Race County  Min Term (Months)
+DIN                                                                            
+19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx                NaN
 
 ----------------------
 Original Number: 953 
 Crime Year: 2015 Age at Arrest: 38 Arrest Year: 2016  Race: White Disposition County: Broome 
-          DIN              Name       DOB   Race  County  Min Term (Months)
-1476  17G0180  Edwards Ariana L  19770419  White  Broome              300.0
+                     Name       DOB   Race  County  Min Term (Months)
+DIN                                                                  
+17G0180  Edwards Ariana L  19770419  White  Broome              300.0
 
 ----------------------
 Original Number: 860 
 Crime Year: 2015 Age at Arrest: 23 Arrest Year: 2015  Race: White Disposition County: Cortland 
-          DIN               Name       DOB   Race    County  Min Term (Months)
-1305  16B0499  Hammond Michael S  19911226  White  Cortland              240.0
+                      Name       DOB   Race    County  Min Term (Months)
+DIN                                                                     
+16B0499  Hammond Michael S  19911226  White  Cortland              240.0
 
 ----------------------
 Original Number: 82 
 Crime Year: 2007 Age at Arrest: 46 Arrest Year: 2007  Race: Black Disposition County: Erie 
-         DIN               Name       DOB   Race County  Min Term (Months)
-154  08B2620  Guinyard Lawrence  19601122  Black   Erie              300.0
+                      Name       DOB   Race County  Min Term (Months)
+DIN                                                                  
+08B2620  Guinyard Lawrence  19601122  Black   Erie              300.0
 
 ----------------------
 Original Number: 157 
 Crime Year: 2007 Age at Arrest: 19 Arrest Year: 2008  Race: Black Disposition County: Erie 
-          DIN          Name       DOB   Race County  Min Term (Months)
-1797  10B0244  Howard Byron  19870609  Black   Erie                NaN
+                 Name       DOB   Race County  Min Term (Months)
+DIN                                                             
+10B0244  Howard Byron  19870609  Black   Erie                NaN
 
 ----------------------
 Original Number: 162 
 Crime Year: 2008 Age at Arrest: 20 Arrest Year: 2008  Race: Black Disposition County: Erie 
-          DIN          Name       DOB   Race County  Min Term (Months)
-1797  10B0244  Howard Byron  19870609  Black   Erie                NaN
+                 Name       DOB   Race County  Min Term (Months)
+DIN                                                             
+10B0244  Howard Byron  19870609  Black   Erie                NaN
 
 ----------------------
 Original Number: 284 
 Crime Year: 2010 Age at Arrest: 22 Arrest Year: 2010  Race: Black Disposition County: Erie 
-          DIN          Name       DOB   Race County  Min Term (Months)
-1797  10B0244  Howard Byron  19870609  Black   Erie                NaN
+                 Name       DOB   Race County  Min Term (Months)
+DIN                                                             
+10B0244  Howard Byron  19870609  Black   Erie                NaN
 
 ----------------------
 Original Number: 46 
 Crime Year: 2006 Age at Arrest: 50 Arrest Year: 2006  Race: Black Disposition County: Kings 
-        DIN             Name       DOB   Race County  Min Term (Months)
-26  08A1831  Scrubb Anderson  19550923  Black  Kings              300.0
+                    Name       DOB   Race County  Min Term (Months)
+DIN                                                                
+08A1831  Scrubb Anderson  19550923  Black  Kings              300.0
 
 ----------------------
 Original Number: 83 
 Crime Year: 2007 Age at Arrest: 18 Arrest Year: 2007  Race: Black Disposition County: Kings 
-         DIN           Name       DOB   Race County  Min Term (Months)
-250  09A5493  Smith Maurice  19891129  Black  Kings              240.0
-413  10A5450   Moore Horace  19880228  Black  Kings              240.0
-842  13A5667    Deane Akeem  19890708  Black  Kings              240.0
+                  Name       DOB   Race County  Min Term (Months)
+DIN                                                              
+09A5493  Smith Maurice  19891129  Black  Kings              240.0
+10A5450   Moore Horace  19880228  Black  Kings              240.0
+13A5667    Deane Akeem  19890708  Black  Kings              240.0
 
 ----------------------
 Original Number: 149 
 Crime Year: 2007 Age at Arrest: 29 Arrest Year: 2007  Race: Black Disposition County: Kings 
-          DIN               Name       DOB   Race County  Min Term (Months)
-220   09A2998      Bramble Anton  19780722  Black  Kings              300.0
-239   09A4055      Parker Keenan  19780104  Black  Kings              300.0
-416   10A5643       Brummel Teon  19770409  Black  Kings              300.0
-477   11A0020  Cunningham Kareem  19781104  Black  Kings              300.0
-902   14A1450       Nixon Junell  19780510  Black  Kings              300.0
-1254  16A2781      Avery Ralston  19781010  Black  Kings              300.0
-1542  18A3511     Govan Kwauhuru  19780720  Black  Kings              300.0
-1554  18A4441    Danclair Joseph  19781019  Black  Kings              300.0
+                      Name       DOB   Race County  Min Term (Months)
+DIN                                                                  
+09A2998      Bramble Anton  19780722  Black  Kings              300.0
+09A4055      Parker Keenan  19780104  Black  Kings              300.0
+10A5643       Brummel Teon  19770409  Black  Kings              300.0
+11A0020  Cunningham Kareem  19781104  Black  Kings              300.0
+14A1450       Nixon Junell  19780510  Black  Kings              300.0
+16A2781      Avery Ralston  19781010  Black  Kings              300.0
+18A3511     Govan Kwauhuru  19780720  Black  Kings              300.0
+18A4441    Danclair Joseph  19781019  Black  Kings              300.0
 
 ----------------------
 Original Number: 286 
 Crime Year: 2010 Age at Arrest: 19 Arrest Year: 2010  Race: Hispanic Disposition County: Kings 
-          DIN            Name       DOB      Race County  Min Term (Months)
-1820  13A0214  Iglesias Julio  19910110  Hispanic  Kings                NaN
-1874  13A3508      Ortiz Luis  19900211  Hispanic  Kings                NaN
+                   Name       DOB      Race County  Min Term (Months)
+DIN                                                                  
+13A0214  Iglesias Julio  19910110  Hispanic  Kings                NaN
+13A3508      Ortiz Luis  19900211  Hispanic  Kings                NaN
 
 ----------------------
 Original Number: 342 
 Crime Year: 2009 Age at Arrest: 17 Arrest Year: 2009  Race: Black Disposition County: Kings 
-         DIN          Name       DOB   Race County  Min Term (Months)
-486  11A0329  Govia Kareem  19910301  Black  Kings              180.0
+                 Name       DOB   Race County  Min Term (Months)
+DIN                                                             
+11A0329  Govia Kareem  19910301  Black  Kings              180.0
 
 ----------------------
 Original Number: 425 
 Crime Year: 2010 Age at Arrest: 18 Arrest Year: 2010  Race: Hispanic Disposition County: Kings 
-          DIN            Name       DOB      Race County  Min Term (Months)
-1820  13A0214  Iglesias Julio  19910110  Hispanic  Kings                NaN
+                   Name       DOB      Race County  Min Term (Months)
+DIN                                                                  
+13A0214  Iglesias Julio  19910110  Hispanic  Kings                NaN
 
 ----------------------
 Original Number: 426 
 Crime Year: 2010 Age at Arrest: 20 Arrest Year: 2010  Race: Hispanic Disposition County: Kings 
-          DIN        Name       DOB      Race County  Min Term (Months)
-1874  13A3508  Ortiz Luis  19900211  Hispanic  Kings                NaN
+               Name       DOB      Race County  Min Term (Months)
+DIN                                                              
+13A3508  Ortiz Luis  19900211  Hispanic  Kings                NaN
 
 ----------------------
 Original Number: 427 
 Crime Year: 2010 Age at Arrest: 20 Arrest Year: 2010  Race: Hispanic Disposition County: Kings 
-          DIN            Name       DOB      Race County  Min Term (Months)
-683   12A3957   Herrera Angel  19890703  Hispanic  Kings              240.0
-1837  15A1441  Bullock Robert  19890225  Hispanic  Kings              240.0
+                   Name       DOB      Race County  Min Term (Months)
+DIN                                                                  
+12A3957   Herrera Angel  19890703  Hispanic  Kings              240.0
+15A1441  Bullock Robert  19890225  Hispanic  Kings              240.0
 
 ----------------------
 Original Number: 431 
 Crime Year: 2010 Age at Arrest: 30 Arrest Year: 2010  Race: Hispanic Disposition County: Kings 
-         DIN            Name       DOB      Race County  Min Term (Months)
-382  10A3625  Maldonado Jose  19800530  Hispanic  Kings              240.0
-672  12A3516      Soto David  19800517  Hispanic  Kings              240.0
+                   Name       DOB      Race County  Min Term (Months)
+DIN                                                                  
+10A3625  Maldonado Jose  19800530  Hispanic  Kings              240.0
+12A3516      Soto David  19800517  Hispanic  Kings              240.0
 
 ----------------------
 Original Number: 433 
 Crime Year: 2010 Age at Arrest: 49 Arrest Year: 2010  Race: Black Disposition County: Kings 
-          DIN                    Name       DOB   Race County   
-738   12G0651  Wesley Rosa Jacqueline  19610728  Black  Kings  \
-1512  18A1821        Ashley Beresford  19610123  Black  Kings   
-
-      Min Term (Months)  
-738               300.0  
-1512              300.0  
+                           Name       DOB   Race County  Min Term (Months)
+DIN                                                                       
+12G0651  Wesley Rosa Jacqueline  19610728  Black  Kings              300.0
+18A1821        Ashley Beresford  19610123  Black  Kings              300.0
 
 ----------------------
 Original Number: 501 
 Crime Year: 2009 Age at Arrest: 21 Arrest Year: 2009  Race: Black Disposition County: Kings 
-         DIN           Name       DOB   Race County  Min Term (Months)
-320  09G0586  Hanson Pamela  19871019  Black  Kings              276.0
+                  Name       DOB   Race County  Min Term (Months)
+DIN                                                              
+09G0586  Hanson Pamela  19871019  Black  Kings              276.0
 
 ----------------------
 Original Number: 512 
 Crime Year: 2010 Age at Arrest: 19 Arrest Year: 2010  Race: Hispanic Disposition County: Kings 
-          DIN            Name       DOB      Race County  Min Term (Months)
-1820  13A0214  Iglesias Julio  19910110  Hispanic  Kings                NaN
-1874  13A3508      Ortiz Luis  19900211  Hispanic  Kings                NaN
+                   Name       DOB      Race County  Min Term (Months)
+DIN                                                                  
+13A0214  Iglesias Julio  19910110  Hispanic  Kings                NaN
+13A3508      Ortiz Luis  19900211  Hispanic  Kings                NaN
 
 ----------------------
 Original Number: 513 
 Crime Year: 2010 Age at Arrest: 45 Arrest Year: 2010  Race: Asian Disposition County: Kings 
-         DIN         Name       DOB   Race County  Min Term (Months)
-774  13A2621  Pan Han Min  19650727  Asian  Kings              240.0
+                Name       DOB   Race County  Min Term (Months)
+DIN                                                            
+13A2621  Pan Han Min  19650727  Asian  Kings              240.0
 
 ----------------------
 Original Number: 529 
 Crime Year: 2011 Age at Arrest: 21 Arrest Year: 2011  Race: Hispanic Disposition County: Kings 
-          DIN        Name       DOB      Race County  Min Term (Months)
-1874  13A3508  Ortiz Luis  19900211  Hispanic  Kings                NaN
+               Name       DOB      Race County  Min Term (Months)
+DIN                                                              
+13A3508  Ortiz Luis  19900211  Hispanic  Kings                NaN
 
 ----------------------
 Original Number: 610 
 Crime Year: 2011 Age at Arrest: 19 Arrest Year: 2011  Race: Hispanic Disposition County: Kings 
-          DIN            Name       DOB      Race County  Min Term (Months)
-1820  13A0214  Iglesias Julio  19910110  Hispanic  Kings                NaN
+                   Name       DOB      Race County  Min Term (Months)
+DIN                                                                  
+13A0214  Iglesias Julio  19910110  Hispanic  Kings                NaN
 
 ----------------------
 Original Number: 611 
 Crime Year: 2011 Age at Arrest: 24 Arrest Year: 2011  Race: Black Disposition County: Kings 
-          DIN             Name       DOB   Race County  Min Term (Months)
-805   13A4244  Jenkins Startel  19871223  Black  Kings              180.0
-1864  19A1634     Felix Kendel  19870806  Black  Kings              180.0
+                    Name       DOB   Race County  Min Term (Months)
+DIN                                                                
+13A4244  Jenkins Startel  19871223  Black  Kings              180.0
+19A1634     Felix Kendel  19870806  Black  Kings              180.0
 
 ----------------------
 Original Number: 613 
 Crime Year: 2011 Age at Arrest: 26 Arrest Year: 2011  Race: Black Disposition County: Kings 
-          DIN              Name       DOB   Race County  Min Term (Months)
-632   12A1517     Cooper Bennie  19851024  Black  Kings              276.0
-1352  17A0226  Lancaster Herman  19850106  Black  Kings              276.0
+                     Name       DOB   Race County  Min Term (Months)
+DIN                                                                 
+12A1517     Cooper Bennie  19851024  Black  Kings              276.0
+17A0226  Lancaster Herman  19850106  Black  Kings              276.0
 
 ----------------------
 Original Number: 633 
 Crime Year: 2012 Age at Arrest: 33 Arrest Year: 2012  Race: Black Disposition County: Kings 
-          DIN             Name       DOB   Race County  Min Term (Months)
-902   14A1450     Nixon Junell  19780510  Black  Kings              300.0
-1254  16A2781    Avery Ralston  19781010  Black  Kings              300.0
-1542  18A3511   Govan Kwauhuru  19780720  Black  Kings              300.0
-1554  18A4441  Danclair Joseph  19781019  Black  Kings              300.0
+                    Name       DOB   Race County  Min Term (Months)
+DIN                                                                
+14A1450     Nixon Junell  19780510  Black  Kings              300.0
+16A2781    Avery Ralston  19781010  Black  Kings              300.0
+18A3511   Govan Kwauhuru  19780720  Black  Kings              300.0
+18A4441  Danclair Joseph  19781019  Black  Kings              300.0
 
 ----------------------
 Original Number: 728 
 Crime Year: 2013 Age at Arrest: 21 Arrest Year: 2013  Race: Black Disposition County: Kings 
-          DIN             Name       DOB   Race County  Min Term (Months)
-1075  15A0789  Sarkodie Justin  19920308  Black  Kings              300.0
-1282  16A4196  Harris Lawrence  19910326  Black  Kings              300.0
+                    Name       DOB   Race County  Min Term (Months)
+DIN                                                                
+15A0789  Sarkodie Justin  19920308  Black  Kings              300.0
+16A4196  Harris Lawrence  19910326  Black  Kings              300.0
 
 ----------------------
 Original Number: 730 
 Crime Year: 2013 Age at Arrest: 24 Arrest Year: 2013  Race: Black Disposition County: Kings 
-         DIN         Name       DOB   Race County  Min Term (Months)
-842  13A5667  Deane Akeem  19890708  Black  Kings              240.0
+                Name       DOB   Race County  Min Term (Months)
+DIN                                                            
+13A5667  Deane Akeem  19890708  Black  Kings              240.0
 
 ----------------------
 Original Number: 767 
 Crime Year: 2014 Age at Arrest: 24 Arrest Year: 2014  Race: White Disposition County: Kings 
-          DIN           Name       DOB   Race County  Min Term (Months)
-1152  15A5043  Simser Joshua  19890924  White  Kings              240.0
+                  Name       DOB   Race County  Min Term (Months)
+DIN                                                              
+15A5043  Simser Joshua  19890924  White  Kings              240.0
 
 ----------------------
 Original Number: 1025 
 Crime Year: 2016 Age at Arrest: 50 Arrest Year: 2016  Race: Hispanic Disposition County: Kings 
-          DIN             Name       DOB      Race County  Min Term (Months)
-1543  18A3560  Serra Victorino  19660616  Hispanic  Kings              300.0
+                    Name       DOB      Race County  Min Term (Months)
+DIN                                                                   
+18A3560  Serra Victorino  19660616  Hispanic  Kings              300.0
 
 ----------------------
 Original Number: 1083 
 Crime Year: 2015 Age at Arrest: 44 Arrest Year: 2017  Race: Black Disposition County: Kings 
-          DIN          Name       DOB   Race County  Min Term (Months)
-1630  19A0114  Moore Daniel  19700818  Black  Kings              180.0
+                 Name       DOB   Race County  Min Term (Months)
+DIN                                                             
+19A0114  Moore Daniel  19700818  Black  Kings              180.0
 
 ----------------------
 Original Number: 1110 
 Crime Year: 2017 Age at Arrest: 31 Arrest Year: 2017  Race: Black Disposition County: Kings 
-          DIN          Name       DOB   Race County  Min Term (Months)
-1424  17A4475  Faison James  19860613  Black  Kings              300.0
+                 Name       DOB   Race County  Min Term (Months)
+DIN                                                             
+17A4475  Faison James  19860613  Black  Kings              300.0
 
 ----------------------
 Original Number: 1156 
 Crime Year: 2016 Age at Arrest: 34 Arrest Year: 2017  Race: Black Disposition County: Kings 
-          DIN            Name       DOB   Race County  Min Term (Months)
-1475  17G0065  Hughes Chivona  19811217  Black  Kings              300.0
-1522  18A2524  Zephir Patrick  19811124  Black  Kings              300.0
-1631  19A0165  Dunaway Raheem  19820228  Black  Kings              300.0
+                   Name       DOB   Race County  Min Term (Months)
+DIN                                                               
+17G0065  Hughes Chivona  19811217  Black  Kings              300.0
+18A2524  Zephir Patrick  19811124  Black  Kings              300.0
+19A0165  Dunaway Raheem  19820228  Black  Kings              300.0
 
 ----------------------
 Original Number: 210 
 Crime Year: 2006 Age at Arrest: 20 Arrest Year: 2006  Race: Black Disposition County: Monroe 
-         DIN               Name       DOB   Race  County  Min Term (Months)
-428  10B0734     Fuqua Tyrauice  19860730  Black  Monroe              300.0
-448  10B2660   Carson Matthew M  19860408  Black  Monroe              300.0
-880  13G1081  Johnson Natalie A  19860419  Black  Monroe              300.0
-990  14B0127    Henry Jerrell B  19850105  Black  Monroe              300.0
+                      Name       DOB   Race  County  Min Term (Months)
+DIN                                                                   
+10B0734     Fuqua Tyrauice  19860730  Black  Monroe              300.0
+10B2660   Carson Matthew M  19860408  Black  Monroe              300.0
+13G1081  Johnson Natalie A  19860419  Black  Monroe              300.0
+14B0127    Henry Jerrell B  19850105  Black  Monroe              300.0
 
 ----------------------
 Original Number: 732 
 Crime Year: 2013 Age at Arrest: 20 Arrest Year: 2013  Race: Hispanic Disposition County: Monroe 
-          DIN              Name       DOB      Race  County  Min Term (Months)
-1030  14B3496  Quinones Roberto  19931202  Hispanic  Monroe              300.0
+                     Name       DOB      Race  County  Min Term (Months)
+DIN                                                                     
+14B3496  Quinones Roberto  19931202  Hispanic  Monroe              300.0
 
 ----------------------
 Original Number: 769 
 Crime Year: 2014 Age at Arrest: 19 Arrest Year: 2014  Race: Black Disposition County: Monroe 
-          DIN                Name       DOB   Race  County  Min Term (Months)
-1169  15B1282        Coffie Ralik  19940531  Black  Monroe              180.0
-1299  16B0191  Williams Daniel Jr  19951101  Black  Monroe              180.0
+                       Name       DOB   Race  County  Min Term (Months)
+DIN                                                                    
+15B1282        Coffie Ralik  19940531  Black  Monroe              180.0
+16B0191  Williams Daniel Jr  19951101  Black  Monroe              180.0
 
 ----------------------
 Original Number: 1127 
 Crime Year: 2018 Age at Arrest: 19 Arrest Year: 2018  Race: Black Disposition County: Monroe 
-          DIN          Name       DOB   Race  County  Min Term (Months)
-1599  18B2238  Burns Joshua  19980517  Black  Monroe              300.0
+                 Name       DOB   Race  County  Min Term (Months)
+DIN                                                              
+18B2238  Burns Joshua  19980517  Black  Monroe              300.0
 
 ----------------------
 Original Number: 37 
 Crime Year: 2005 Age at Arrest: 25 Arrest Year: 2006  Race: Black Disposition County: Nassau 
-          DIN            Name       DOB   Race  County  Min Term (Months)
-1832  14A4437  Fuller Darrell  19790922  Black  Nassau                NaN
+                   Name       DOB   Race  County  Min Term (Months)
+DIN                                                                
+14A4437  Fuller Darrell  19790922  Black  Nassau                NaN
 
 ----------------------
 Original Number: 369 
 Crime Year: 2010 Age at Arrest: 30 Arrest Year: 2010  Race: Black Disposition County: Nassau 
-          DIN            Name       DOB   Race  County  Min Term (Months)
-1832  14A4437  Fuller Darrell  19790922  Black  Nassau                NaN
+                   Name       DOB   Race  County  Min Term (Months)
+DIN                                                                
+14A4437  Fuller Darrell  19790922  Black  Nassau                NaN
 
 ----------------------
 Original Number: 661 
 Crime Year: 2013 Age at Arrest: 34 Arrest Year: 2013  Race: Black Disposition County: Nassau 
-          DIN            Name       DOB   Race  County  Min Term (Months)
-1832  14A4437  Fuller Darrell  19790922  Black  Nassau                NaN
+                   Name       DOB   Race  County  Min Term (Months)
+DIN                                                                
+14A4437  Fuller Darrell  19790922  Black  Nassau                NaN
 
 ----------------------
 Original Number: 698 
 Crime Year: 2009 Age at Arrest: 29 Arrest Year: 2011  Race: Black Disposition County: Nassau 
-          DIN            Name       DOB   Race  County  Min Term (Months)
-1832  14A4437  Fuller Darrell  19790922  Black  Nassau                NaN
+                   Name       DOB   Race  County  Min Term (Months)
+DIN                                                                
+14A4437  Fuller Darrell  19790922  Black  Nassau                NaN
 
 ----------------------
 Original Number: 18 
 Crime Year: 2004 Age at Arrest: 34 Arrest Year: 2004  Race: Black Disposition County: New York 
-          DIN            Name       DOB   Race    County  Min Term (Months)
-1780  08A6405  George Everett  19700917  Black  New York                NaN
+                   Name       DOB   Race    County  Min Term (Months)
+DIN                                                                  
+08A6405  George Everett  19700917  Black  New York                NaN
 
 ----------------------
 Original Number: 32 
 Crime Year: 2005 Age at Arrest: 44 Arrest Year: 2005  Race: Hispanic Disposition County: New York 
-         DIN            Name       DOB      Race    County  Min Term (Months)
-175  09A0295  Lanzot William  19600902  Hispanic  New York              204.0
+                   Name       DOB      Race    County  Min Term (Months)
+DIN                                                                     
+09A0295  Lanzot William  19600902  Hispanic  New York              204.0
 
 ----------------------
 Original Number: 38 
 Crime Year: 2005 Age at Arrest: 20 Arrest Year: 2006  Race: Black Disposition County: New York 
-         DIN               Name       DOB   Race    County  Min Term (Months)
-248  09A5075  Luckerson Vincent  19850203  Black  New York              300.0
-764  13A1876       Moore George  19850515  Black  New York              300.0
+                      Name       DOB   Race    County  Min Term (Months)
+DIN                                                                     
+09A5075  Luckerson Vincent  19850203  Black  New York              300.0
+13A1876       Moore George  19850515  Black  New York              300.0
 
 ----------------------
 Original Number: 50 
 Crime Year: 2006 Age at Arrest: 19 Arrest Year: 2006  Race: Hispanic Disposition County: New York 
-          DIN            Name       DOB      Race    County  Min Term (Months)
-1808  12A0445  Rivera Gabriel  19860617  Hispanic  New York                NaN
+                   Name       DOB      Race    County  Min Term (Months)
+DIN                                                                     
+12A0445  Rivera Gabriel  19860617  Hispanic  New York                NaN
 
 ----------------------
 Original Number: 222 
 Crime Year: 2007 Age at Arrest: 21 Arrest Year: 2007  Race: Hispanic Disposition County: New York 
-          DIN            Name       DOB      Race    County  Min Term (Months)
-1808  12A0445  Rivera Gabriel  19860617  Hispanic  New York                NaN
+                   Name       DOB      Race    County  Min Term (Months)
+DIN                                                                     
+12A0445  Rivera Gabriel  19860617  Hispanic  New York                NaN
 
 ----------------------
 Original Number: 295 
 Crime Year: 2010 Age at Arrest: 21 Arrest Year: 2010  Race: White Disposition County: New York 
-          DIN             Name       DOB   Race    County  Min Term (Months)
-1862  19A0637  Jackson James H  19880526  White  New York                NaN
+                    Name       DOB   Race    County  Min Term (Months)
+DIN                                                                   
+19A0637  Jackson James H  19880526  White  New York                NaN
 
 ----------------------
 Original Number: 330 
 Crime Year: 2008 Age at Arrest: 41 Arrest Year: 2009  Race: Hispanic Disposition County: New York 
-         DIN           Name       DOB      Race    County  Min Term (Months)
-344  10A1697  Moronta Julio  19670215  Hispanic  New York              300.0
-566  11A5508      Rios Juan  19670517  Hispanic  New York              300.0
+                  Name       DOB      Race    County  Min Term (Months)
+DIN                                                                    
+10A1697  Moronta Julio  19670215  Hispanic  New York              300.0
+11A5508      Rios Juan  19670517  Hispanic  New York              300.0
 
 ----------------------
 Original Number: 370 
 Crime Year: 2010 Age at Arrest: 24 Arrest Year: 2010  Race: Hispanic Disposition County: New York 
-          DIN            Name       DOB      Race    County  Min Term (Months)
-1808  12A0445  Rivera Gabriel  19860617  Hispanic  New York                NaN
+                   Name       DOB      Race    County  Min Term (Months)
+DIN                                                                     
+12A0445  Rivera Gabriel  19860617  Hispanic  New York                NaN
 
 ----------------------
 Original Number: 440 
 Crime Year: 2010 Age at Arrest: 33 Arrest Year: 2010  Race: Asian Disposition County: New York 
-         DIN           Name       DOB   Race    County  Min Term (Months)
-669  12A3392  Kurita Julian  19760929  Asian  New York              180.0
+                  Name       DOB   Race    County  Min Term (Months)
+DIN                                                                 
+12A3392  Kurita Julian  19760929  Asian  New York              180.0
 
 ----------------------
 Original Number: 482 
 Crime Year: 2012 Age at Arrest: 43 Arrest Year: 2012  Race: Black Disposition County: New York 
-          DIN              Name       DOB   Race    County  Min Term (Months)
-1823  13A2700  Matthews Wilfred  19681022  Black  New York                NaN
+                     Name       DOB   Race    County  Min Term (Months)
+DIN                                                                    
+13A2700  Matthews Wilfred  19681022  Black  New York                NaN
 
 ----------------------
 Original Number: 508 
 Crime Year: 2009 Age at Arrest: 54 Arrest Year: 2010  Race: White Disposition County: New York 
-         DIN               Name       DOB   Race    County  Min Term (Months)
-765  13A2020  Demirdjian Edward  19550204  White  New York              300.0
+                      Name       DOB   Race    County  Min Term (Months)
+DIN                                                                     
+13A2020  Demirdjian Edward  19550204  White  New York              300.0
 
 ----------------------
 Original Number: 595 
 Crime Year: 2008 Age at Arrest: 42 Arrest Year: 2008  Race: Hispanic Disposition County: New York 
-         DIN            Name       DOB      Race    County  Min Term (Months)
-884  14A0267  Davila William  19651119  Hispanic  New York              228.0
+                   Name       DOB      Race    County  Min Term (Months)
+DIN                                                                     
+14A0267  Davila William  19651119  Hispanic  New York              228.0
 
 ----------------------
 Original Number: 599 
 Crime Year: 2009 Age at Arrest: 16 Arrest Year: 2009  Race: Black Disposition County: New York 
-         DIN             Name       DOB   Race    County  Min Term (Months)
-966  14A4385  Parker Latwoine  19920707  Black  New York              240.0
+                    Name       DOB   Race    County  Min Term (Months)
+DIN                                                                   
+14A4385  Parker Latwoine  19920707  Black  New York              240.0
 
 ----------------------
 Original Number: 845 
 Crime Year: 2014 Age at Arrest: 22 Arrest Year: 2014  Race: Black Disposition County: New York 
-          DIN        Name       DOB   Race    County  Min Term (Months)
-1440  17A5250  Moore Carl  19910321  Black  New York              300.0
+               Name       DOB   Race    County  Min Term (Months)
+DIN                                                              
+17A5250  Moore Carl  19910321  Black  New York              300.0
 
 ----------------------
 Original Number: 847 
 Crime Year: 2014 Age at Arrest: 25 Arrest Year: 2014  Race: Hispanic Disposition County: New York 
-          DIN             Name       DOB      Race    County   
-1261  16A3381  Paulino Jovanny  19880809  Hispanic  New York  \
-
-      Min Term (Months)  
-1261              300.0  
+                    Name       DOB      Race    County  Min Term (Months)
+DIN                                                                      
+16A3381  Paulino Jovanny  19880809  Hispanic  New York              300.0
 
 ----------------------
 Original Number: 991 
 Crime Year: 2012 Age at Arrest: 21 Arrest Year: 2013  Race: Hispanic Disposition County: New York 
-          DIN                     Name       DOB      Race    County   
-1513  18A1881  Pena Castillo Jonnathan  19910204  Hispanic  New York  \
+                            Name       DOB  ...    County Min Term (Months)
+DIN                                         ...                            
+18A1881  Pena Castillo Jonnathan  19910204  ...  New York             264.0
 
-      Min Term (Months)  
-1513              264.0  
+[1 rows x 5 columns]
 
 ----------------------
 Original Number: 1067 
 Crime Year: 1996 Age at Arrest: 22 Arrest Year: 2017  Race: White Disposition County: New York 
-          DIN             Name       DOB   Race    County  Min Term (Months)
-1656  19A1684  Covlin Roderick  19730728  White  New York              300.0
-1675  19A2643        Wald Evan  19731114  White  New York              300.0
+                    Name       DOB   Race    County  Min Term (Months)
+DIN                                                                   
+19A1684  Covlin Roderick  19730728  White  New York              300.0
+19A2643        Wald Evan  19731114  White  New York              300.0
 
 ----------------------
 Original Number: 1071 
 Crime Year: 2008 Age at Arrest: 22 Arrest Year: 2009  Race: Hispanic Disposition County: New York 
-         DIN            Name       DOB      Race    County  Min Term (Months)
-475  11A0018  Cancel Jeromie  19860411  Hispanic  New York              300.0
+                   Name       DOB      Race    County  Min Term (Months)
+DIN                                                                     
+11A0018  Cancel Jeromie  19860411  Hispanic  New York              300.0
 
 ----------------------
 Original Number: 1191 
 Crime Year: 2017 Age at Arrest: 34 Arrest Year: 2017  Race: Hispanic Disposition County: New York 
-          DIN                    Name       DOB      Race    County   
-1374  17A1897  Martinez Jimenez Pablo  19831019  Hispanic  New York  \
+                           Name       DOB  ...    County Min Term (Months)
+DIN                                        ...                            
+17A1897  Martinez Jimenez Pablo  19831019  ...  New York             300.0
 
-      Min Term (Months)  
-1374              300.0  
+[1 rows x 5 columns]
 
 ----------------------
 Original Number: 664 
 Crime Year: 2013 Age at Arrest: 24 Arrest Year: 2013  Race: Black Disposition County: Onondaga 
-          DIN            Name       DOB   Race    County  Min Term (Months)
-1731  19B0088  Dennard Jaquan  19890325  Black  Onondaga              300.0
+                   Name       DOB   Race    County  Min Term (Months)
+DIN                                                                  
+19B0088  Dennard Jaquan  19890325  Black  Onondaga              300.0
 
 ----------------------
 Original Number: 8 
 Crime Year: 2001 Age at Arrest: 33 Arrest Year: 2006  Race: Black Disposition County: Queens 
-        DIN              Name       DOB   Race  County  Min Term (Months)
-97  08A5699  Mcghee John Love  19680413  Black  Queens              264.0
+                     Name       DOB   Race  County  Min Term (Months)
+DIN                                                                  
+08A5699  Mcghee John Love  19680413  Black  Queens              264.0
 
 ----------------------
 Original Number: 519 
 Crime Year: 2010 Age at Arrest: 35 Arrest Year: 2010  Race: Hispanic Disposition County: Queens 
-         DIN              Name       DOB      Race  County  Min Term (Months)
-741  13A0181     Viruet Miguel  19750219  Hispanic  Queens              300.0
-799  13A3754        Diaz Elmer  19741128  Hispanic  Queens              300.0
-963  14A4244  Caballero Andrew  19741216  Hispanic  Queens              300.0
+                     Name       DOB      Race  County  Min Term (Months)
+DIN                                                                     
+13A0181     Viruet Miguel  19750219  Hispanic  Queens              300.0
+13A3754        Diaz Elmer  19741128  Hispanic  Queens              300.0
+14A4244  Caballero Andrew  19741216  Hispanic  Queens              300.0
 
 ----------------------
 Original Number: 589 
 Crime Year: 2002 Age at Arrest: 23 Arrest Year: 2003  Race: Hispanic Disposition County: Queens 
-         DIN             Name       DOB      Race  County  Min Term (Months)
-538  11A3351  Marshall Robert  19790601  Hispanic  Queens              180.0
+                    Name       DOB      Race  County  Min Term (Months)
+DIN                                                                    
+11A3351  Marshall Robert  19790601  Hispanic  Queens              180.0
 
 ----------------------
 Original Number: 896 
 Crime Year: 1990 Age at Arrest: 32 Arrest Year: 2015  Race: White Disposition County: Queens 
-          DIN         Name       DOB   Race  County  Min Term (Months)
-1418  17A3977  Smith Kevin  19570412  White  Queens              300.0
+                Name       DOB   Race  County  Min Term (Months)
+DIN                                                             
+17A3977  Smith Kevin  19570412  White  Queens              300.0
 
 ----------------------
 Original Number: 907 
 Crime Year: 2012 Age at Arrest: 27 Arrest Year: 2014  Race: Black Disposition County: Queens 
-          DIN          Name       DOB   Race  County  Min Term (Months)
-1405  17A3218  Louime David  19840923  Black  Queens              276.0
+                 Name       DOB   Race  County  Min Term (Months)
+DIN                                                              
+17A3218  Louime David  19840923  Black  Queens              276.0
 
 ----------------------
 Original Number: 999 
 Crime Year: 2014 Age at Arrest: 33 Arrest Year: 2014  Race: Hispanic Disposition County: Queens 
-          DIN         Name       DOB      Race  County  Min Term (Months)
-1858  18A2375  Morel Oscar  19800818  Hispanic  Queens                NaN
+                Name       DOB      Race  County  Min Term (Months)
+DIN                                                                
+18A2375  Morel Oscar  19800818  Hispanic  Queens                NaN
 
 ----------------------
 Original Number: 1014 
 Crime Year: 2015 Age at Arrest: 25 Arrest Year: 2015  Race: Black Disposition County: Queens 
-          DIN            Name       DOB   Race  County  Min Term (Months)
-1709  19A4104  Jones Sahquane  19890524  Black  Queens              300.0
+                   Name       DOB   Race  County  Min Term (Months)
+DIN                                                                
+19A4104  Jones Sahquane  19890524  Black  Queens              300.0
 
 ----------------------
 Original Number: 1021 
 Crime Year: 2015 Age at Arrest: 18 Arrest Year: 2016  Race: Black Disposition County: Queens 
-          DIN            Name       DOB   Race  County  Min Term (Months)
-1863  19A1626  Lewis Chanel R  19960502  Black  Queens                NaN
+                   Name       DOB   Race  County  Min Term (Months)
+DIN                                                                
+19A1626  Lewis Chanel R  19960502  Black  Queens                NaN
 
 ----------------------
 Original Number: 1097 
 Crime Year: 2016 Age at Arrest: 27 Arrest Year: 2016  Race: Black Disposition County: Queens 
-          DIN            Name       DOB   Race  County  Min Term (Months)
-1709  19A4104  Jones Sahquane  19890524  Black  Queens              300.0
+                   Name       DOB   Race  County  Min Term (Months)
+DIN                                                                
+19A4104  Jones Sahquane  19890524  Black  Queens              300.0
 
 ----------------------
 Original Number: 1099 
 Crime Year: 2016 Age at Arrest: 36 Arrest Year: 2016  Race: Hispanic Disposition County: Queens 
-          DIN         Name       DOB      Race  County  Min Term (Months)
-1858  18A2375  Morel Oscar  19800818  Hispanic  Queens                NaN
+                Name       DOB      Race  County  Min Term (Months)
+DIN                                                                
+18A2375  Morel Oscar  19800818  Hispanic  Queens                NaN
 
 ----------------------
 Original Number: 1135 
 Crime Year: 2018 Age at Arrest: 21 Arrest Year: 2018  Race: Black Disposition County: Queens 
-          DIN            Name       DOB   Race  County  Min Term (Months)
-1863  19A1626  Lewis Chanel R  19960502  Black  Queens                NaN
+                   Name       DOB   Race  County  Min Term (Months)
+DIN                                                                
+19A1626  Lewis Chanel R  19960502  Black  Queens                NaN
 
 ----------------------
 Original Number: 1184 
 Crime Year: 2013 Age at Arrest: 16 Arrest Year: 2013  Race: Black Disposition County: Queens 
-          DIN            Name       DOB   Race  County  Min Term (Months)
-1863  19A1626  Lewis Chanel R  19960502  Black  Queens                NaN
+                   Name       DOB   Race  County  Min Term (Months)
+DIN                                                                
+19A1626  Lewis Chanel R  19960502  Black  Queens                NaN
 
 ----------------------
 Original Number: 242 
 Crime Year: 2008 Age at Arrest: 40 Arrest Year: 2008  Race: White Disposition County: Richmond 
-         DIN           Name       DOB   Race    County  Min Term (Months)
-327  10A0580  Lanorith John  19670622  White  Richmond              240.0
+                  Name       DOB   Race    County  Min Term (Months)
+DIN                                                                 
+10A0580  Lanorith John  19670622  White  Richmond              240.0
 
 ----------------------
 Original Number: 275 
 Crime Year: 2009 Age at Arrest: 28 Arrest Year: 2009  Race: Black Disposition County: Richmond 
-         DIN           Name       DOB   Race    County  Min Term (Months)
-372  10A3323  Lawson Calvin  19801202  Black  Richmond              300.0
+                  Name       DOB   Race    County  Min Term (Months)
+DIN                                                                 
+10A3323  Lawson Calvin  19801202  Black  Richmond              300.0
 
 ----------------------
 Original Number: 550 
 Crime Year: 2011 Age at Arrest: 16 Arrest Year: 2012  Race: White Disposition County: Richmond 
-          DIN            Name       DOB   Race    County  Min Term (Months)
-1848  16A0994  Viggiano Dante  19940621  White  Richmond                NaN
+                   Name       DOB   Race    County  Min Term (Months)
+DIN                                                                  
+16A0994  Viggiano Dante  19940621  White  Richmond                NaN
 
 ----------------------
 Original Number: 687 
 Crime Year: 2005 Age at Arrest: 31 Arrest Year: 2014  Race: Black Disposition County: Richmond 
-          DIN           Name       DOB   Race    County  Min Term (Months)
-1122  15A3585  Young Michael  19740728  Black  Richmond              300.0
+                  Name       DOB   Race    County  Min Term (Months)
+DIN                                                                 
+15A3585  Young Michael  19740728  Black  Richmond              300.0
 
 ----------------------
 Original Number: 155 
 Crime Year: 2007 Age at Arrest: 22 Arrest Year: 2007  Race: Black Disposition County: Suffolk 
-          DIN            Name       DOB   Race   County  Min Term (Months)
-1795  10A4353  Festus Darnell  19850516  Black  Suffolk                NaN
+                   Name       DOB   Race   County  Min Term (Months)
+DIN                                                                 
+10A4353  Festus Darnell  19850516  Black  Suffolk                NaN
 
 ----------------------
 Original Number: 156 
 Crime Year: 2007 Age at Arrest: 27 Arrest Year: 2007  Race: White Disposition County: Suffolk 
-         DIN               Name       DOB   Race   County  Min Term (Months)
-217  09A2897  Hubbard Kenneth W  19791012  White  Suffolk              180.0
+                      Name       DOB   Race   County  Min Term (Months)
+DIN                                                                    
+09A2897  Hubbard Kenneth W  19791012  White  Suffolk              180.0
 
 ----------------------
 Original Number: 243 
 Crime Year: 2008 Age at Arrest: 22 Arrest Year: 2008  Race: Black Disposition County: Suffolk 
-          DIN            Name       DOB   Race   County  Min Term (Months)
-1795  10A4353  Festus Darnell  19850516  Black  Suffolk                NaN
+                   Name       DOB   Race   County  Min Term (Months)
+DIN                                                                 
+10A4353  Festus Darnell  19850516  Black  Suffolk                NaN
 
 ----------------------
 Original Number: 244 
 Crime Year: 2008 Age at Arrest: 22 Arrest Year: 2008  Race: Black Disposition County: Suffolk 
-          DIN            Name       DOB   Race   County  Min Term (Months)
-1795  10A4353  Festus Darnell  19850516  Black  Suffolk                NaN
+                   Name       DOB   Race   County  Min Term (Months)
+DIN                                                                 
+10A4353  Festus Darnell  19850516  Black  Suffolk                NaN
 
 ----------------------
 Original Number: 245 
 Crime Year: 2008 Age at Arrest: 23 Arrest Year: 2008  Race: Black Disposition County: Suffolk 
-          DIN            Name       DOB   Race   County  Min Term (Months)
-1795  10A4353  Festus Darnell  19850516  Black  Suffolk                NaN
+                   Name       DOB   Race   County  Min Term (Months)
+DIN                                                                 
+10A4353  Festus Darnell  19850516  Black  Suffolk                NaN
 
 ----------------------
 Original Number: 406 
 Crime Year: 2008 Age at Arrest: 18 Arrest Year: 2010  Race: Black Disposition County: Suffolk 
-          DIN                       Name       DOB   Race   County   
-1876  16A5064  Olukotunwilliams Stoker S  19890715  Black  Suffolk  \
-
-      Min Term (Months)  
-1876                NaN  
+                              Name       DOB   Race   County  Min Term (Months)
+DIN                                                                            
+16A5064  Olukotunwilliams Stoker S  19890715  Black  Suffolk                NaN
 
 ----------------------
 Original Number: 751 
 Crime Year: 2013 Age at Arrest: 19 Arrest Year: 2014  Race: Black Disposition County: Suffolk 
-          DIN           Name       DOB   Race   County  Min Term (Months)
-1840  15A4166  Davis Brandon  19941005  Black  Suffolk                NaN
+                  Name       DOB   Race   County  Min Term (Months)
+DIN                                                                
+15A4166  Davis Brandon  19941005  Black  Suffolk                NaN
 
 ----------------------
 Original Number: 812 
 Crime Year: 2012 Age at Arrest: 22 Arrest Year: 2013  Race: Black Disposition County: Suffolk 
-          DIN                       Name       DOB   Race   County   
-1876  16A5064  Olukotunwilliams Stoker S  19890715  Black  Suffolk  \
-
-      Min Term (Months)  
-1876                NaN  
+                              Name       DOB   Race   County  Min Term (Months)
+DIN                                                                            
+16A5064  Olukotunwilliams Stoker S  19890715  Black  Suffolk                NaN
 
 ----------------------
 Original Number: 912 
 Crime Year: 2013 Age at Arrest: 23 Arrest Year: 2015  Race: Black Disposition County: Suffolk 
-          DIN                       Name       DOB   Race   County   
-1876  16A5064  Olukotunwilliams Stoker S  19890715  Black  Suffolk  \
-
-      Min Term (Months)  
-1876                NaN  
+                              Name       DOB   Race   County  Min Term (Months)
+DIN                                                                            
+16A5064  Olukotunwilliams Stoker S  19890715  Black  Suffolk                NaN
 
 ----------------------
 Original Number: 975 
 Crime Year: 2016 Age at Arrest: 36 Arrest Year: 2016  Race: Black Disposition County: Sullivan 
-          DIN             Name       DOB   Race    County  Min Term (Months)
-1441  17A5269  Bolden Jr Ricky  19800607  Black  Sullivan              252.0
+                    Name       DOB   Race    County  Min Term (Months)
+DIN                                                                   
+17A5269  Bolden Jr Ricky  19800607  Black  Sullivan              252.0
 
 ----------------------
 Original Number: 1059 
 Crime Year: 2017 Age at Arrest: 45 Arrest Year: 2017  Race: Black Disposition County: Tompkins 
-          DIN           Name       DOB   Race    County  Min Term (Months)
-1577  18B0848  Davis Michael  19710821  Black  Tompkins              300.0
+                  Name       DOB   Race    County  Min Term (Months)
+DIN                                                                 
+18B0848  Davis Michael  19710821  Black  Tompkins              300.0
 
 ----------------------
