@@ -1,5 +1,8 @@
 # felony-murder
 
+To use:
+    pip3 install -r requirements.txt
+    python -m courtscraper scrape 
 
 Data Sources:
 

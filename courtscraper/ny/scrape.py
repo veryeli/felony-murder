@@ -1,3 +1,4 @@
+"""Scraper for collecting DOCCS arrestees from NY DOC website"""
 
 import time
 import pickle
@@ -50,8 +51,8 @@ def get_new_driver_for_name(last_name, first_name):
 
 def load_data():
     """Load data from pickle file"""
-    # return pickle.load(open(NY_SCRAPE_PATH, 'rb'))
-    return []
+    return pickle.load(open(NY_SCRAPE_PATH, 'rb'))
+    # return []
 
 def get_start_letters(data):
     """When reloading data, which is alphabetically listed, start where you left off"""
@@ -88,12 +89,12 @@ def run_scraper():
                     text = row.text.replace(',,', ',')
                     first_name = text.split(',')[1].strip().split()[0]
                 else: first_name = ''
-                
+
                 # ignore old and new DINS
                 if int(row.text[:2]) < 7 or int(row.text[:2]) > 19:
                     continue
                 elem = row.find_element('tag name', 'a')
-                if not elem: 
+                if not elem:
                     continue
                 elem.click()
                 page_info = get_info_from_page(driver)
@@ -105,11 +106,7 @@ def run_scraper():
             time.sleep(2)
             # save progress every 100 people
             if len(infos) % 100 == 0:
-                pickle.dump(infos, open('infos.p', 'wb'))
+                pickle.dump(infos, open(NY_SCRAPE_PATH, 'wb'))
                 print(f'{first_name} {last_name} {len(infos)}', end = '')
 
     pickle.dump(infos, open(NY_SCRAPE_PATH, 'wb'))
-
-
-if __name__ == '__main__':
-    main()
