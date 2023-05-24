@@ -4,6 +4,7 @@ NY_URL = "https://nysdoccslookup.doccs.ny.gov/"
 DCJS_PATH = 'data/ny/dcjs.xlsx'
 DOCCS_FOIL_TXT_PATH = 'courtscraper/data/ny/doccs_foil_data.txt'
 DOCCS_FOIL_XLSX = 'courtscraper/data/ny/doccs_foil_data.xlsx'
+GENERATED_MATCHES = 'courtscraper/data/ny/generated_matches.txt'
 TRACKER_PATH = 'courtscraper/data/ny/tracker.xlsx'
 
 IGNORE = [
