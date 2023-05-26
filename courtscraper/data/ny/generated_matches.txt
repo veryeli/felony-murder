@@ -101,16 +101,24 @@ DIN
 ----------------------
 Original Number: 650 
 Crime Year: 2013 Age at Arrest: 18 Arrest Year: 2013  Race: Hispanic Disposition County: Bronx 
-                             Name       DOB      Race County  Min Term (Months)
-DIN                                                                            
-19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx                NaN
+                             Name       DOB      Race County   
+DIN                                                            
+19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx  \
+
+         Min Term (Months)  
+DIN                         
+19A3879                NaN  
 
 ----------------------
 Original Number: 670 
 Crime Year: 2014 Age at Arrest: 19 Arrest Year: 2014  Race: Hispanic Disposition County: Bronx 
-                             Name       DOB      Race County  Min Term (Months)
-DIN                                                                            
-19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx                NaN
+                             Name       DOB      Race County   
+DIN                                                            
+19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx  \
+
+         Min Term (Months)  
+DIN                         
+19A3879                NaN  
 
 ----------------------
 Original Number: 684 
@@ -145,37 +153,57 @@ DIN
 ----------------------
 Original Number: 917 
 Crime Year: 2014 Age at Arrest: 19 Arrest Year: 2014  Race: Hispanic Disposition County: Bronx 
-                             Name       DOB      Race County  Min Term (Months)
-DIN                                                                            
-19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx                NaN
+                             Name       DOB      Race County   
+DIN                                                            
+19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx  \
+
+         Min Term (Months)  
+DIN                         
+19A3879                NaN  
 
 ----------------------
 Original Number: 918 
 Crime Year: 2014 Age at Arrest: 20 Arrest Year: 2014  Race: Hispanic Disposition County: Bronx 
-                             Name       DOB      Race County  Min Term (Months)
-DIN                                                                            
-19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx                NaN
+                             Name       DOB      Race County   
+DIN                                                            
+19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx  \
+
+         Min Term (Months)  
+DIN                         
+19A3879                NaN  
 
 ----------------------
 Original Number: 959 
 Crime Year: 2016 Age at Arrest: 21 Arrest Year: 2016  Race: Hispanic Disposition County: Bronx 
-                             Name       DOB      Race County  Min Term (Months)
-DIN                                                                            
-19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx                NaN
+                             Name       DOB      Race County   
+DIN                                                            
+19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx  \
+
+         Min Term (Months)  
+DIN                         
+19A3879                NaN  
 
 ----------------------
 Original Number: 1102 
 Crime Year: 2016 Age at Arrest: 22 Arrest Year: 2017  Race: Hispanic Disposition County: Bronx 
-                             Name       DOB      Race County  Min Term (Months)
-DIN                                                                            
-19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx                NaN
+                             Name       DOB      Race County   
+DIN                                                            
+19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx  \
+
+         Min Term (Months)  
+DIN                         
+19A3879                NaN  
 
 ----------------------
 Original Number: 1123 
 Crime Year: 2018 Age at Arrest: 24 Arrest Year: 2018  Race: Hispanic Disposition County: Bronx 
-                             Name       DOB      Race County  Min Term (Months)
-DIN                                                                            
-19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx                NaN
+                             Name       DOB      Race County   
+DIN                                                            
+19A3879  Martinezestrella Jonaiki  19940110  Hispanic  Bronx  \
+
+         Min Term (Months)  
+DIN                         
+19A3879                NaN  
 
 ----------------------
 Original Number: 953 
@@ -586,11 +614,13 @@ DIN
 ----------------------
 Original Number: 991 
 Crime Year: 2012 Age at Arrest: 21 Arrest Year: 2013  Race: Hispanic Disposition County: New York 
-                            Name       DOB  ...    County Min Term (Months)
-DIN                                         ...                            
-18A1881  Pena Castillo Jonnathan  19910204  ...  New York             264.0
+                            Name       DOB      Race    County   
+DIN                                                              
+18A1881  Pena Castillo Jonnathan  19910204  Hispanic  New York  \
 
-[1 rows x 5 columns]
+         Min Term (Months)  
+DIN                         
+18A1881              264.0  
 
 ----------------------
 Original Number: 1067 
@@ -610,11 +640,13 @@ DIN
 ----------------------
 Original Number: 1191 
 Crime Year: 2017 Age at Arrest: 34 Arrest Year: 2017  Race: Hispanic Disposition County: New York 
-                           Name       DOB  ...    County Min Term (Months)
-DIN                                        ...                            
-17A1897  Martinez Jimenez Pablo  19831019  ...  New York             300.0
+                           Name       DOB      Race    County   
+DIN                                                             
+17A1897  Martinez Jimenez Pablo  19831019  Hispanic  New York  \
 
-[1 rows x 5 columns]
+         Min Term (Months)  
+DIN                         
+17A1897              300.0  
 
 ----------------------
 Original Number: 664 
@@ -775,9 +807,13 @@ DIN
 ----------------------
 Original Number: 406 
 Crime Year: 2008 Age at Arrest: 18 Arrest Year: 2010  Race: Black Disposition County: Suffolk 
-                              Name       DOB   Race   County  Min Term (Months)
-DIN                                                                            
-16A5064  Olukotunwilliams Stoker S  19890715  Black  Suffolk                NaN
+                              Name       DOB   Race   County   
+DIN                                                            
+16A5064  Olukotunwilliams Stoker S  19890715  Black  Suffolk  \
+
+         Min Term (Months)  
+DIN                         
+16A5064                NaN  
 
 ----------------------
 Original Number: 751 
@@ -789,16 +825,24 @@ DIN
 ----------------------
 Original Number: 812 
 Crime Year: 2012 Age at Arrest: 22 Arrest Year: 2013  Race: Black Disposition County: Suffolk 
-                              Name       DOB   Race   County  Min Term (Months)
-DIN                                                                            
-16A5064  Olukotunwilliams Stoker S  19890715  Black  Suffolk                NaN
+                              Name       DOB   Race   County   
+DIN                                                            
+16A5064  Olukotunwilliams Stoker S  19890715  Black  Suffolk  \
+
+         Min Term (Months)  
+DIN                         
+16A5064                NaN  
 
 ----------------------
 Original Number: 912 
 Crime Year: 2013 Age at Arrest: 23 Arrest Year: 2015  Race: Black Disposition County: Suffolk 
-                              Name       DOB   Race   County  Min Term (Months)
-DIN                                                                            
-16A5064  Olukotunwilliams Stoker S  19890715  Black  Suffolk                NaN
+                              Name       DOB   Race   County   
+DIN                                                            
+16A5064  Olukotunwilliams Stoker S  19890715  Black  Suffolk  \
+
+         Min Term (Months)  
+DIN                         
+16A5064                NaN  
 
 ----------------------
 Original Number: 975 
